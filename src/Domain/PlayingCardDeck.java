@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 
 public class PlayingCardDeck {
     private List<PlayingCard> cards = new ArrayList<>();
-    private final int cuttingCard = 10;
+    private final int cuttingCard = 100;
     void clear()
     {
         cards.clear();
