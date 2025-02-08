@@ -17,7 +17,7 @@ Besides being a great way to practice **software architecture** and **design pat
 ---
 
 ## 📽️ Demo
-![Game Demo](screenshots/BlackJackDemo.gif)
+![Game Demo](screenshots/BlackJack.gif)
 
 ---
 
